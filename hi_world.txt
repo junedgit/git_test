@@ -1,0 +1,5 @@
+#hi_world.txt
+
+hey there this is the first file created in Odin Project.
+
+see you again!!!
